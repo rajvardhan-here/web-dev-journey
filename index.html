@@ -1,37 +1,29 @@
-<table border="black">
-  <caption>Student info</caption>
-<tr>
-  <th rowspan ="7" >info </th>
-  <th rowspan="2"> name </th>
-  <th colspan="2" >address </th>
-</tr>
-<tr>
-  <th>city</th>
-  <th>house</th>
-</tr>
-<tr>
-  <td>A</td>
-  <td>delhi</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td>E</td>
-  <td>delhi</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td>B</td>
-  <td>delhi</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td>C</td>
-  <td>mumbai</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td>D</td>
-  <td>ujjain</td>
-  <td>1</td>
-</tr>
-</table>
+<form action="action">
+  <h1>feedback form</h1>
+
+  <label for ="name">Name :</label>
+  <input type="text" id ="name" placeholder="enter name">
+  <br>
+  <br>
+  <label for ="email">Mail :</label>
+  <input type="text" id ="email" placeholder="enter email">
+  <br>
+  <br>
+<div>
+  Message<br>
+  <textarea rows="5" cols="40"></textarea>
+</div>
+<div>
+  <label for ="rating" >Rate us from 5 :</label><br>
+  <input type ="radio" id="one" name= "rating" value="one" >
+  <label for="one"> One</label><BR>
+   <input type ="radio" id="two" name= "rating" value="two" >
+  <label for="two"> two</label><br>
+   <input type ="radio" id="three" name= "rating" value="three" >
+  <label for="three"> three</label><br>
+   <input type ="radio" id="four" name= "rating" value="four" >
+  <label for="four"> four</label><br>
+</div>
+<button>SUBMIT</button>
+  
+</form>
