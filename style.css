@@ -1,9 +1,23 @@
-h1{
-    color: black;
-    background-color: green;
+body{
+    background-color: wheat;
+    text-align: center;
+    text-decoration: georgia;
 }
-
 h1{
-    color: yellow;
-    background-attachment: blue;
+    text-decoration: underline wavy ;
+}
+p{
+    background-color: #A52A2A;
+    text-align: center;
+    line-height: 30px;
+}
+h3{
+    columns: black;
+}
+h4{
+    text-transform: none;
+}
+button{
+    background-color: black;
+    color: blueviolet;
 }
