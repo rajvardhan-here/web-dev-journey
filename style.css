@@ -1,11 +1,10 @@
 h1{
-    color: rgb(51, 133, 201);
-    font-family: 'Courier New', Courier, monospace;
+    background-color: yellow;
 }
-.bttonn{
-    background-color: rgb(99, 215, 250);
+*{
+    text-align: center;
 }
-button{
-    background-color: black;
-    color: white;
+
+h1,h3,h5{
+    color: pink;
 }
