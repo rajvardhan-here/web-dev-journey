@@ -7,8 +7,8 @@
     {
       "type": "chrome",
       "request": "launch",
-      "name": "Open practice2.html",
-      "file": "c:\\Project\\web-dev-journey\\.vscode\\practice2.html"
+      "name": "Open index.html",
+      "file": "c:\\Project\\web-dev-journey\\index.html"
     }
   ]
 }

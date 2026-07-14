@@ -9,3 +9,11 @@ h1{
 h1,h3,h5{
     color: pink;
 }
+.btn{
+    padding: 20px;
+    color: green;
+    background-color: black;
+    transition: hover;
+    
+}
+
