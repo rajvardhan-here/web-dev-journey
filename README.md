@@ -88,6 +88,7 @@ HTML & CSS Basics  ──▶  JavaScript (DOM + Logic)  ──▶  React.js (Adv
 This isn't just a code dump — it's a **public accountability log**. Every weekend's progress gets committed here.
 
 > *"Consistency beats intensity. Small commits, big growth."*
+> *"Consistency beats intensity. Small commits, big growth."*
 
 ---
 
